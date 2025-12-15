@@ -53,6 +53,11 @@ With more time and experience, I would:
 
 These improvements would build on the exisiting logic without changing the core structure.
 
+## Demo
+
+![Gameplay Demo](pygame_demo.gif)
+
+
 # How to run
 
 ```
