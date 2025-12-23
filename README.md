@@ -1,6 +1,6 @@
 # Jumping-Game
 
-This project is an runner game I built using Python and Pygame. The player controls a Spiderman who must constantly jump over bombs while the score updates and increases everytime he does. The game ends when a collision occurs.
+This project is an jumping game I built using Python and Pygame. The player controls a Spiderman who must constantly jump over bombs while the score updates and increases everytime he does. The game ends when a collision occurs.
 
 This project focuses more on logic, control flow and real time program behaviour rather than the visual design of the game.
 
